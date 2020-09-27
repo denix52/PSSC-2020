@@ -1,0 +1,13 @@
+Functionalitati ale paginei principale StackOverflow:
+
+1) Putem observa functionalitatea de creare al unui cont nou sau in cazul in care exista deja unul putem sa ne logam.
+
+2) Acesta poate fi folosit atat de developeri cat si de business-uri, pentru developeri ofera raspunsuri si ajutoare pentru a dezvolta o anumita aplicatie, iar pt business-uri ofera posibilitatea de a angaja developeri care indeplinesc anumite conditii.
+
+3) Cautarea anumitor subiecte este mult mai usoara deoarece putem cauta folosind tag-uri.
+
+4) Sectiunea "Find a job" este folosita pentru a cauta locuri de munca, si aici exista diferite filtre pentru a gasi locul de munca potrivit.
+
+5) Sectiunea "Stack overflow talent" pune la dispozitie firmelor o modalitate mai usoara de a angaja persoane pe locurile disponibile.
+
+6) Putem sa ne promovam produsul si sa aratam functionalitatea acestuia prin "Stack Overflow Advertising".

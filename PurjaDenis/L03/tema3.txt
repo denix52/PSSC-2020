@@ -1,0 +1,36 @@
+Bounded context:”Question context”
+	-workflow:”Create a question”
+	-triggered by:” Post new question request received ”
+	-input:”Question form”
+	-output:”Post a new question”event
+	-side effects:”Confirm question”
+
+	Workflow: ”Post new question”
+		-input: ”New question form”
+		-output: ”New question Accepted and Posted”
+
+
+First step
+	
+
+	Question validation
+
+	if question is valid
+	
+	stop
+
+Second step
+	
+	Send notification if the question was posted or not
+
+Third step
+
+	Return "Question is posted"
+	
+	Substep “Validate question form”
+	Input: ”Unvalidated question form”
+	Output: ”Validated question form”
+
+	If all validations passed return:"Validated new question form"
+	
+	else return: "Question was not validated"
